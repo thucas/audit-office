@@ -1,0 +1,53 @@
+div.LoginForm{
+margin-top: 180px;
+margin-left: auto;
+margin-right: auto;
+width: 600px;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+font-weight: bold;
+}
+
+div.Logo{
+margin-left: 30px;
+margin-top: 30px;
+width: auto;
+}
+
+input{
+  text-align: center;
+}
+div.senhabox{
+  margin-left: 20px;
+}
+
+input.LoginTextBox{
+  background-color: #AAEDE1;
+  /* */Remover acima para linha em baixo apenas /* */
+   color: #AAEDE1;
+   outline: none;
+   outline-style: none;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: solid #AAEDE1 1px;
+   padding: 3px 10px;
+}
+
+input.Login{
+  background-color: #17D0BA;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 44px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
