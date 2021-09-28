@@ -1,5 +1,5 @@
 div.LoginForm{
-margin-top: 180px;
+margin-top: 150px;
 margin-left: auto;
 margin-right: auto;
 width: 600px;
@@ -9,8 +9,8 @@ font-weight: bold;
 }
 
 div.Logo{
-margin-left: 30px;
-margin-top: 30px;
+margin-left: 50px;
+margin-top: 50px;
 width: auto;
 }
 
@@ -32,6 +32,7 @@ input.LoginTextBox{
    border-right: none;
    border-bottom: solid #AAEDE1 1px;
    padding: 3px 10px;
+
 }
 
 input.Login{
@@ -48,6 +49,6 @@ input.Login{
     cursor: pointer;
     border-radius: 44px;
     font-weight: bold;
-    margin-left: auto;
+    margin-left: 75px;
     margin-right: auto;
 }
