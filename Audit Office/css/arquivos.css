@@ -1,0 +1,58 @@
+ 
+      #filtros{
+        padding: 10px;
+        position: fixed;
+        width: 1000px;
+        height: 40px;
+        margin-top: 100px;
+        margin-left: 300px;
+      }  
+      .caixas{
+        padding: 5px;
+
+      }
+      .filtro{
+        background-color: #16D0B9;
+        width: 160px;
+      }
+      #b{
+        margin-left: 5px;
+        font-size: 20px;
+      }
+      .arquivos{
+        padding: 10px;
+        /* border: 1px solid; */
+      }
+
+      /* Esconde o input */
+      input[type='file'] {
+        display: none
+      }
+
+      /* Aparência que terá o seletor de arquivo */
+      label.adicionar-arquivo:hover {
+        background-color:#16D0B9; 
+        transition: 0.5s;
+        opacity: 0.7;
+        border-radius: 5px;
+        color: black;
+        cursor: pointer;
+        padding: 6px 20px
+      }
+      .container {
+        padding: 2rem 0rem;
+      }
+
+      h4 {
+      margin: 2rem 0rem 1rem;
+      }
+
+    .table-image {
+      td, th {
+      vertical-align: middle;
+      }
+    }   
+
+
+
+    
